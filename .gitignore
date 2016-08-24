@@ -1,2 +1,3 @@
 iprange2cidrs/iprange2cidrs
 cidr2ip/cidr2ip
+genmask2prefix/genmask2prefix
