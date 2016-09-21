@@ -8,3 +8,4 @@ Random utilities.
 * [genmask2prefix](/genmask2prefix) - convert a given genmask to a CIDR prefix.
 * [widen-github-issues-page](/widen-github-issues-page) - a Greasemonkey script
   for widening code sections in the GitHub issues/PR page.
+* [dump-packet](/dump-packet) - decode and dump an ethernet frame.
