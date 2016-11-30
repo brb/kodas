@@ -10,3 +10,4 @@ Random utilities.
   for widening code sections in the GitHub issues/PR page.
 * [dump-packet](/dump-packet) - decode and dump an ethernet frame.
 * [send-raw-packet](/send-raw-packet) - send raw (IPv4) packet.
+* [if-drivers](/if-drivers) - list drivers of network interfaces.
